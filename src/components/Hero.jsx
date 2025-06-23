@@ -4,7 +4,7 @@ const Hero = () => {
   const downloadResume = () => {
     // Create a dummy resume file download
     const link = document.createElement('a');
-    link.href = '#'; // Replace with actual resume file path
+    link.href = '/Animesh_Thakur_Resume.pdf'; // Replace with actual resume file path
     link.download = 'Animesh_Thakur_Resume.pdf';
     document.body.appendChild(link);
     link.click();
