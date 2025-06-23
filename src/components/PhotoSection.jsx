@@ -40,7 +40,7 @@ const PhotoSection = () => {
                     <div className="aspect-square bg-gradient-to-br from-dark-light to-dark-card rounded-2xl flex items-center justify-center overflow-hidden relative group-hover:scale-105 transition-transform duration-500">
                       {/* Placeholder for your photo */}
                       <div className="w-full h-full bg-gradient-to-br from-primary/30 to-secondary/30 flex items-center justify-center relative">
-                        <img className='w-full h-full object-contain absolute' src='/public/animesh-photo-final.jpg'/>
+                        <img className='w-full h-full object-contain absolute' src='/animesh-photo-final.jpg'/>
                         
                         {/* Scanning Line Effect */}
                         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-primary/30 to-transparent h-8 animate-bounce-slow opacity-50"></div>

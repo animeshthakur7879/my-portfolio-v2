@@ -8,7 +8,7 @@ const Projects = () => {
     {
       title: "Wheelie - Car Rental Platform",
       description: "This full-stack MERN car rental app features admin and user dashboards. Admins can manage car listings, rentals, and customer reviews, while users can browse, book, and manage car reservations. It includes authentication, role-based access, and a responsive UI",
-      image: "/public/Wheelie.png",
+      image: "/Wheelie.png",
       tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "Redux"],
       github: "https://github.com/animeshthakur7879/Wheelie-Car-Rental",
       live: "https://wheelie-frontend.onrender.com/",
@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: "DevPractice – Online Code Playground",
       description: "A code playground inspired by CodePen and JSFiddle, featuring live HTML, CSS, and JS editing with real-time preview. Integrated the Monaco Editor to provide a VS Code–like experience. Implemented Firebase Authentication for secure login ",
-      image: "/public/DevPractice.png",
+      image: "/DevPractice.png",
       tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "Redux"],
       github: "https://github.com/animeshthakur7879/DevPractice.git",
       live: "https://dev-practice-v1.onrender.com/",
@@ -30,7 +30,7 @@ const Projects = () => {
     {
       title: "TradeX - Crypto Trading Platform ",
       description: "Designed and developed a crypto trading platform that lets users explore trending cryptocurrencies and view real-time insights. It offers a simulated trading experience where users can add coins to a cart for mock purchases",
-      image: "/public/tradeX.png",
+      image: "/tradeX.png",
       tech: ["React", "Redux", "Tailwind CSS", "JavaScript"],
       github: "https://github.com/animeshthakur7879/TradeX-Crypto-app",
       live: "https://tradex-crypto.netlify.app/",
@@ -41,7 +41,7 @@ const Projects = () => {
     {
       title: "KAL-TAK New App",
       description: "A News App that fetches real-time headlines from NewsAPI.org and presents them through a clean, user-friendly interface. The app includes a light/dark theme toggle, a search bar for finding specific news topics, and a weather display showing current conditions for any selected location",
-      image: "/public/News APP.png",
+      image: "/News APP.png",
       tech: ["React", "News API", "Weather API", "Redux" , "Tailwind CSS"],
       github: "https://github.com/animeshthakur7879/news-app-tailwind",
       live: "https://github.com/animeshthakur7879/news-app-tailwind",
@@ -52,7 +52,7 @@ const Projects = () => {
     {
       title: "My To-Do App",
       description: "Built a React-based ToDo App with Tailwind CSS, supporting full CRUD operations.Includes a clean, responsive UI with dark and light theme toggle.Easily add, edit, delete, and manage tasks in real-time.",
-      image: "/public/todo.png",
+      image: "/todo.png",
       tech: ["React", "Tailwind CSS", "Context", "Reducers"],
       github: "https://github.com/animeshthakur7879/Tailwind-Todo-App.git",
       live: "https://todo-app-v3-tailwind.netlify.app/",
@@ -63,7 +63,7 @@ const Projects = () => {
     {
       title: "Websites Clones",
       description: "Here are few websites that I have cloned using HTML & CSS , feel free to check them out !!",
-      image: "/public/websites.png",
+      image: "/websites.png",
       tech: ["html", "css", "js"],
       github: "https://websites-clones.netlify.app/",
       live: "https://websites-clones.netlify.app/",
@@ -74,7 +74,7 @@ const Projects = () => {
     {
       title: "UI Clones",
       description: "Here are some UI designs / dashboards that I have created using HTML , CSS , bootstrap . Feel free to check them out !!",
-      image: "/public/ui.png",
+      image: "/ui.png",
       tech: ["html", "css", "js"],
       github: "https://ui-design-showcase.netlify.app/",
       live: "https://ui-design-showcase.netlify.app/",
